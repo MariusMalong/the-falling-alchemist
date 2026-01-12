@@ -17,5 +17,5 @@ A high-paced C++ arcade game where players catch magical ingredients to brew pot
 2. Clone this repo: `git clone https://github.com/MariusMalong/the-falling-alchemist.git`
 3. Open terminal in the folder and run: `skm build` then `skm run`.
 
-## Gameplay Demo
-![The Falling Alchemist Gameplay](https://github.com/user-attachments/assets/22a66aeb-c96e-46de-9281-14450b99c589)
+## 🎮 Gameplay Preview
+[Watch the gameplay here](https://github.com/user-attachments/assets/22a66aeb-c96e-46de-9281-14450b99c589)
